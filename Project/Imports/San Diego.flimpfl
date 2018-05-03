@@ -23,67 +23,67 @@
   <ExcludedFiles />
   <CollectedSourceFiles>
     <Url
-      Source="../San Diego/Content/AllAboutSanDiego.htm"
+      Source="../../../San Diego/Content/AllAboutSanDiego.htm"
       AbsoluteSource="file:///C:/Users/mtran/Desktop/GIt Presentation/San Diego/Content/AllAboutSanDiego.htm" />
     <Url
-      Source="../San Diego/Content/Beer.htm"
+      Source="../../../San Diego/Content/Beer.htm"
       AbsoluteSource="file:///C:/Users/mtran/Desktop/GIt Presentation/San Diego/Content/Beer.htm" />
     <Url
-      Source="../San Diego/Content/Food.htm"
+      Source="../../../San Diego/Content/Food.htm"
       AbsoluteSource="file:///C:/Users/mtran/Desktop/GIt Presentation/San Diego/Content/Food.htm" />
     <Url
-      Source="../San Diego/Content/Home.htm"
+      Source="../../../San Diego/Content/Home.htm"
       AbsoluteSource="file:///C:/Users/mtran/Desktop/GIt Presentation/San Diego/Content/Home.htm" />
     <Url
-      Source="../San Diego/Content/SanDiegoAttractions.htm"
+      Source="../../../San Diego/Content/SanDiegoAttractions.htm"
       AbsoluteSource="file:///C:/Users/mtran/Desktop/GIt Presentation/San Diego/Content/SanDiegoAttractions.htm" />
     <Url
-      Source="../San Diego/Content/SanDiegoCuisine.htm"
+      Source="../../../San Diego/Content/SanDiegoCuisine.htm"
       AbsoluteSource="file:///C:/Users/mtran/Desktop/GIt Presentation/San Diego/Content/SanDiegoCuisine.htm" />
     <Url
-      Source="../San Diego/Content/PrintOnlyTopics/Copyright.htm"
+      Source="../../../San Diego/Content/PrintOnlyTopics/Copyright.htm"
       AbsoluteSource="file:///C:/Users/mtran/Desktop/GIt Presentation/San Diego/Content/PrintOnlyTopics/Copyright.htm" />
     <Url
-      Source="../San Diego/Content/PrintOnlyTopics/PrintTOC.htm"
+      Source="../../../San Diego/Content/PrintOnlyTopics/PrintTOC.htm"
       AbsoluteSource="file:///C:/Users/mtran/Desktop/GIt Presentation/San Diego/Content/PrintOnlyTopics/PrintTOC.htm" />
     <Url
-      Source="../San Diego/Content/PrintOnlyTopics/Resources.htm"
+      Source="../../../San Diego/Content/PrintOnlyTopics/Resources.htm"
       AbsoluteSource="file:///C:/Users/mtran/Desktop/GIt Presentation/San Diego/Content/PrintOnlyTopics/Resources.htm" />
     <Url
-      Source="../San Diego/Content/PrintOnlyTopics/TitlePage.htm"
+      Source="../../../San Diego/Content/PrintOnlyTopics/TitlePage.htm"
       AbsoluteSource="file:///C:/Users/mtran/Desktop/GIt Presentation/San Diego/Content/PrintOnlyTopics/TitlePage.htm" />
   </CollectedSourceFiles>
   <SkippedSourceFiles />
   <GeneratedFiles>
     <Url
-      Source="Content/AllAboutSanDiego.htm"
+      Source="../../Content/AllAboutSanDiego.htm"
       TimeStamp="4/25/2018 11:18:10 AM" />
     <Url
-      Source="Content/Beer.htm"
+      Source="../../Content/Beer.htm"
       TimeStamp="4/25/2018 11:18:10 AM" />
     <Url
-      Source="Content/Food.htm"
+      Source="../../Content/Food.htm"
       TimeStamp="4/25/2018 11:18:10 AM" />
     <Url
-      Source="Content/Home.htm"
+      Source="../../Content/Home.htm"
       TimeStamp="4/25/2018 11:18:10 AM" />
     <Url
-      Source="Content/SanDiegoAttractions.htm"
+      Source="../../Content/SanDiegoAttractions.htm"
       TimeStamp="4/25/2018 11:18:12 AM" />
     <Url
-      Source="Content/SanDiegoCuisine.htm"
+      Source="../../Content/SanDiegoCuisine.htm"
       TimeStamp="4/25/2018 11:18:12 AM" />
     <Url
-      Source="Content/PrintOnlyTopics/Copyright.htm"
+      Source="../../Content/PrintOnlyTopics/Copyright.htm"
       TimeStamp="4/25/2018 11:18:10 AM" />
     <Url
-      Source="Content/PrintOnlyTopics/PrintTOC.htm"
+      Source="../../Content/PrintOnlyTopics/PrintTOC.htm"
       TimeStamp="4/25/2018 11:18:10 AM" />
     <Url
-      Source="Content/PrintOnlyTopics/Resources.htm"
+      Source="../../Content/PrintOnlyTopics/Resources.htm"
       TimeStamp="4/25/2018 11:18:10 AM" />
     <Url
-      Source="Content/PrintOnlyTopics/TitlePage.htm"
+      Source="../../Content/PrintOnlyTopics/TitlePage.htm"
       TimeStamp="4/25/2018 11:18:10 AM" />
   </GeneratedFiles>
 </CatapultProject>
